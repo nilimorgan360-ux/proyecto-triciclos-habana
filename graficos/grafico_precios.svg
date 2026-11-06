@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" font-family="Helvetica, Arial, sans-serif"><rect width="1000" height="650" fill="#FFFFFF"/>
+<text x="500.0" y="46" text-anchor="middle" font-size="26" font-weight="bold" fill="#023047">Distribución de precios del mercado</text><text x="500.0" y="74" text-anchor="middle" font-size="15" fill="#6B7280">Triciclos eléctricos en La Habana · datos consolidados</text>
+<line x1="90" y1="530.0" x2="960" y2="530.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="534.0" text-anchor="end" font-size="12" fill="#6B7280">0</text>
+<line x1="90" y1="450.0" x2="960" y2="450.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="454.0" text-anchor="end" font-size="12" fill="#6B7280">2</text>
+<line x1="90" y1="370.0" x2="960" y2="370.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="374.0" text-anchor="end" font-size="12" fill="#6B7280">3</text>
+<line x1="90" y1="290.0" x2="960" y2="290.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="294.0" text-anchor="end" font-size="12" fill="#6B7280">5</text>
+<line x1="90" y1="210.0" x2="960" y2="210.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="214.0" text-anchor="end" font-size="12" fill="#6B7280">6</text>
+<line x1="90" y1="130.0" x2="960" y2="130.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="134.0" text-anchor="end" font-size="12" fill="#6B7280">8</text>
+<rect x="107.4" y="330.0" width="139.2" height="200.0" rx="2" fill="#219EBC"/>
+<text x="177.0" y="322.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#023047">4</text>
+<text x="177.0" y="550.0" text-anchor="middle" font-size="11" fill="#023047">3,000-3,500</text>
+<rect x="281.4" y="180.0" width="139.2" height="350.0" rx="2" fill="#219EBC"/>
+<text x="351.0" y="172.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#023047">7</text>
+<text x="351.0" y="550.0" text-anchor="middle" font-size="11" fill="#023047">3,500-4,000</text>
+<rect x="455.4" y="330.0" width="139.2" height="200.0" rx="2" fill="#219EBC"/>
+<text x="525.0" y="322.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#023047">4</text>
+<text x="525.0" y="550.0" text-anchor="middle" font-size="11" fill="#023047">4,000-4,500</text>
+<rect x="629.4" y="380.0" width="139.2" height="150.0" rx="2" fill="#219EBC"/>
+<text x="699.0" y="372.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#023047">3</text>
+<text x="699.0" y="550.0" text-anchor="middle" font-size="11" fill="#023047">4,500-5,000</text>
+<rect x="803.4" y="430.0" width="139.2" height="100.0" rx="2" fill="#219EBC"/>
+<text x="873.0" y="422.0" text-anchor="middle" font-size="13" font-weight="bold" fill="#023047">2</text>
+<text x="873.0" y="550.0" text-anchor="middle" font-size="11" fill="#023047">5,000-5,500</text>
+<line x1="417.5" y1="130" x2="417.5" y2="530" stroke="#FB8500" stroke-width="2" stroke-dasharray="7,5"/>
+<text x="417.5" y="118" text-anchor="middle" font-size="13" font-weight="bold" fill="#FB8500">Promedio: 3,941.15 USD</text>
+<line x1="90" y1="130" x2="90" y2="530" stroke="#6B7280" stroke-width="1"/>
+<line x1="90" y1="530" x2="960" y2="530" stroke="#6B7280" stroke-width="1"/>
+<text x="525.0" y="620" text-anchor="middle" font-size="14" fill="#6B7280">Rango de precio (USD)</text>
+<text x="28" y="330.0" text-anchor="middle" font-size="14" fill="#6B7280" transform="rotate(-90 28 330.0)">Número de triciclos</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" font-family="Helvetica, Arial, sans-serif"><rect width="1000" height="650" fill="#FFFFFF"/>
+<text x="500.0" y="46" text-anchor="middle" font-size="26" font-weight="bold" fill="#023047">Distribución geográfica por municipio</text><text x="500.0" y="74" text-anchor="middle" font-size="15" fill="#6B7280">Cantidad de triciclos registrados por municipio</text>
+<rect x="260" y="106.0" width="630" height="59.75" fill="#F9FAFB"/>
+
+<rect x="260" y="225.5" width="630" height="59.75" fill="#F9FAFB"/>
+
+<rect x="260" y="345.0" width="630" height="59.75" fill="#F9FAFB"/>
+
+<rect x="260" y="464.5" width="630" height="59.75" fill="#F9FAFB"/>
+
+<line x1="260.0" y1="110" x2="260.0" y2="580" stroke="#E5E7EB" stroke-width="1"/>
+<text x="260.0" y="602" text-anchor="middle" font-size="12" fill="#6B7280">0</text>
+<line x1="386.0" y1="110" x2="386.0" y2="580" stroke="#E5E7EB" stroke-width="1"/>
+<text x="386.0" y="602" text-anchor="middle" font-size="12" fill="#6B7280">1</text>
+<line x1="512.0" y1="110" x2="512.0" y2="580" stroke="#E5E7EB" stroke-width="1"/>
+<text x="512.0" y="602" text-anchor="middle" font-size="12" fill="#6B7280">2</text>
+<line x1="638.0" y1="110" x2="638.0" y2="580" stroke="#E5E7EB" stroke-width="1"/>
+<text x="638.0" y="602" text-anchor="middle" font-size="12" fill="#6B7280">3</text>
+<line x1="764.0" y1="110" x2="764.0" y2="580" stroke="#E5E7EB" stroke-width="1"/>
+<text x="764.0" y="602" text-anchor="middle" font-size="12" fill="#6B7280">4</text>
+<line x1="890.0" y1="110" x2="890.0" y2="580" stroke="#E5E7EB" stroke-width="1"/>
+<text x="890.0" y="602" text-anchor="middle" font-size="12" fill="#6B7280">5</text>
+<rect x="260" y="110.0" width="630.0" height="51.8" rx="3" fill="#219EBC"/>
+<text x="248" y="140.9" text-anchor="end" font-size="14" fill="#023047">10 de Octubre</text>
+<text x="900.0" y="140.9" font-size="13" font-weight="bold" fill="#023047">5 triciclos</text>
+<rect x="260" y="169.8" width="378.0" height="51.8" rx="3" fill="#219EBC"/>
+<text x="248" y="200.6" text-anchor="end" font-size="14" fill="#023047">Centro Habana</text>
+<text x="648.0" y="200.6" font-size="13" font-weight="bold" fill="#023047">3 triciclos</text>
+<rect x="260" y="229.5" width="252.0" height="51.8" rx="3" fill="#219EBC"/>
+<text x="248" y="260.4" text-anchor="end" font-size="14" fill="#023047">La Lisa</text>
+<text x="522.0" y="260.4" font-size="13" font-weight="bold" fill="#023047">2 triciclos</text>
+<rect x="260" y="289.2" width="252.0" height="51.8" rx="3" fill="#219EBC"/>
+<text x="248" y="320.1" text-anchor="end" font-size="14" fill="#023047">Cerro</text>
+<text x="522.0" y="320.1" font-size="13" font-weight="bold" fill="#023047">2 triciclos</text>
+<rect x="260" y="349.0" width="252.0" height="51.8" rx="3" fill="#219EBC"/>
+<text x="248" y="379.9" text-anchor="end" font-size="14" fill="#023047">Plaza de la Revolución</text>
+<text x="522.0" y="379.9" font-size="13" font-weight="bold" fill="#023047">2 triciclos</text>
+<rect x="260" y="408.8" width="252.0" height="51.8" rx="3" fill="#219EBC"/>
+<text x="248" y="439.6" text-anchor="end" font-size="14" fill="#023047">Cotorro</text>
+<text x="522.0" y="439.6" font-size="13" font-weight="bold" fill="#023047">2 triciclos</text>
+<rect x="260" y="468.5" width="252.0" height="51.8" rx="3" fill="#219EBC"/>
+<text x="248" y="499.4" text-anchor="end" font-size="14" fill="#023047">Playa</text>
+<text x="522.0" y="499.4" font-size="13" font-weight="bold" fill="#023047">2 triciclos</text>
+<rect x="260" y="528.2" width="252.0" height="51.8" rx="3" fill="#219EBC"/>
+<text x="248" y="559.1" text-anchor="end" font-size="14" fill="#023047">Habana del Este</text>
+<text x="522.0" y="559.1" font-size="13" font-weight="bold" fill="#023047">2 triciclos</text>
+<line x1="260" y1="110" x2="260" y2="580" stroke="#6B7280" stroke-width="1"/>
+<line x1="260" y1="580" x2="890" y2="580" stroke="#6B7280" stroke-width="1"/>
+</svg>

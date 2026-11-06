@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" font-family="Helvetica, Arial, sans-serif"><rect width="1000" height="650" fill="#FFFFFF"/>
+<text x="500.0" y="46" text-anchor="middle" font-size="26" font-weight="bold" fill="#023047">Precios por municipio (mínimo, promedio y máximo)</text><text x="500.0" y="74" text-anchor="middle" font-size="15" fill="#6B7280">Precios en USD de triciclos eléctricos</text>
+<line x1="90" y1="520.0" x2="960" y2="520.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="524.0" text-anchor="end" font-size="12" fill="#6B7280">0</text>
+<line x1="90" y1="440.0" x2="960" y2="440.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="444.0" text-anchor="end" font-size="12" fill="#6B7280">1,200</text>
+<line x1="90" y1="360.0" x2="960" y2="360.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="364.0" text-anchor="end" font-size="12" fill="#6B7280">2,400</text>
+<line x1="90" y1="280.0" x2="960" y2="280.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="284.0" text-anchor="end" font-size="12" fill="#6B7280">3,600</text>
+<line x1="90" y1="200.0" x2="960" y2="200.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="204.0" text-anchor="end" font-size="12" fill="#6B7280">4,800</text>
+<line x1="90" y1="120.0" x2="960" y2="120.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="78" y="124.0" text-anchor="end" font-size="12" fill="#6B7280">6,000</text>
+<rect x="106.3" y="300.0" width="23.4" height="220.0" rx="2" fill="#219EBC"/>
+<text x="118.0" y="314.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,300</text>
+<rect x="215.1" y="266.7" width="23.4" height="253.3" rx="2" fill="#219EBC"/>
+<text x="226.8" y="280.7" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,800</text>
+<rect x="323.8" y="266.7" width="23.4" height="253.3" rx="2" fill="#219EBC"/>
+<text x="335.5" y="280.7" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,800</text>
+<rect x="432.6" y="306.7" width="23.4" height="213.3" rx="2" fill="#219EBC"/>
+<text x="444.2" y="320.7" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,200</text>
+<rect x="541.3" y="253.3" width="23.4" height="266.7" rx="2" fill="#219EBC"/>
+<text x="553.0" y="267.3" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,000</text>
+<rect x="650.1" y="320.0" width="23.4" height="200.0" rx="2" fill="#219EBC"/>
+<text x="661.8" y="334.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,000</text>
+<rect x="758.8" y="280.0" width="23.4" height="240.0" rx="2" fill="#219EBC"/>
+<text x="770.5" y="294.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,600</text>
+<rect x="867.6" y="220.0" width="23.4" height="300.0" rx="2" fill="#219EBC"/>
+<text x="879.2" y="234.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,500</text>
+<rect x="131.7" y="290.7" width="23.4" height="229.3" rx="2" fill="#FFB703"/>
+<text x="143.4" y="304.7" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,440</text>
+<rect x="240.4" y="257.3" width="23.4" height="262.7" rx="2" fill="#FFB703"/>
+<text x="252.1" y="271.3" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,941.03</text>
+<rect x="349.2" y="253.3" width="23.4" height="266.7" rx="2" fill="#FFB703"/>
+<text x="360.9" y="267.3" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,000</text>
+<rect x="457.9" y="253.3" width="23.4" height="266.7" rx="2" fill="#FFB703"/>
+<text x="469.6" y="267.3" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,000</text>
+<rect x="566.7" y="213.3" width="23.4" height="306.7" rx="2" fill="#FFB703"/>
+<text x="578.4" y="227.3" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,600</text>
+<rect x="675.4" y="286.7" width="23.4" height="233.3" rx="2" fill="#FFB703"/>
+<text x="687.1" y="300.7" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,500</text>
+<rect x="784.2" y="233.3" width="23.4" height="286.7" rx="2" fill="#FFB703"/>
+<text x="795.9" y="247.3" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,300</text>
+<rect x="892.9" y="220.0" width="23.4" height="300.0" rx="2" fill="#FFB703"/>
+<text x="904.6" y="234.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,500</text>
+<rect x="157.1" y="280.0" width="23.4" height="240.0" rx="2" fill="#FB8500"/>
+<text x="168.8" y="294.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">3,600</text>
+<rect x="265.8" y="240.0" width="23.4" height="280.0" rx="2" fill="#FB8500"/>
+<text x="277.5" y="254.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,200</text>
+<rect x="374.6" y="240.0" width="23.4" height="280.0" rx="2" fill="#FB8500"/>
+<text x="386.2" y="254.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,200</text>
+<rect x="483.3" y="200.0" width="23.4" height="320.0" rx="2" fill="#FB8500"/>
+<text x="495.0" y="214.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,800</text>
+<rect x="592.1" y="173.3" width="23.4" height="346.7" rx="2" fill="#FB8500"/>
+<text x="603.8" y="187.3" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">5,200</text>
+<rect x="700.8" y="253.3" width="23.4" height="266.7" rx="2" fill="#FB8500"/>
+<text x="712.5" y="267.3" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,000</text>
+<rect x="809.6" y="186.7" width="23.4" height="333.3" rx="2" fill="#FB8500"/>
+<text x="821.2" y="200.7" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">5,000</text>
+<rect x="918.3" y="220.0" width="23.4" height="300.0" rx="2" fill="#FB8500"/>
+<text x="930.0" y="234.0" text-anchor="middle" font-size="10" font-weight="bold" fill="#FFFFFF">4,500</text>
+<text x="144.4" y="540.0" text-anchor="end" font-size="12" fill="#023047" transform="rotate(-35 144.4 540.0)">10 de Octubre</text>
+<text x="253.1" y="540.0" text-anchor="end" font-size="12" fill="#023047" transform="rotate(-35 253.1 540.0)">Centro Habana</text>
+<text x="361.9" y="544.0" text-anchor="middle" font-size="12" fill="#023047">Cerro</text>
+<text x="470.6" y="544.0" text-anchor="middle" font-size="12" fill="#023047">Cotorro</text>
+<text x="579.4" y="540.0" text-anchor="end" font-size="12" fill="#023047" transform="rotate(-35 579.4 540.0)">Habana del Este</text>
+<text x="688.1" y="544.0" text-anchor="middle" font-size="12" fill="#023047">La Lisa</text>
+<text x="796.9" y="544.0" text-anchor="middle" font-size="12" fill="#023047">Playa</text>
+<text x="905.6" y="540.0" text-anchor="end" font-size="12" fill="#023047" transform="rotate(-35 905.6 540.0)">Plaza de la Revolución</text>
+<line x1="90" y1="120" x2="90" y2="520" stroke="#6B7280" stroke-width="1"/>
+<line x1="90" y1="520" x2="960" y2="520" stroke="#6B7280" stroke-width="1"/>
+<rect x="90" y="610" width="16" height="16" rx="3" fill="#219EBC"/>
+<text x="114" y="623" font-size="13" fill="#023047">Mínimo</text>
+<rect x="198" y="610" width="16" height="16" rx="3" fill="#FFB703"/>
+<text x="222" y="623" font-size="13" fill="#023047">Promedio</text>
+<rect x="324" y="610" width="16" height="16" rx="3" fill="#FB8500"/>
+<text x="348" y="623" font-size="13" fill="#023047">Máximo</text>
+</svg>

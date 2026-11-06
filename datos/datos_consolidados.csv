@@ -1,0 +1,21 @@
+municipio,tipo_de_uso,precio,barrera,fuente
+10 de Octubre,media,3300,-,web
+10 de Octubre,media,3300,-,web
+10 de Octubre,media,3500,-,web
+10 de Octubre,media,3600,-,web
+Centro Habana,alta,3800,-,web
+Centro Habana,alta,3823.08,-,web
+La Lisa,alta,4000,En regla,web
+Cerro,baja,4200,En regla,web
+Plaza de la Revolución,alta,4500,-,web
+Cotorro,alta,4800,-,web
+Playa,media,5000,-,web
+Habana del Este,media,5200,En regla,web
+10 de Octubre,alquiler,3500.0,falta de documentos,entrevista
+Centro Habana,compra,4200.0,precios altos,entrevista
+La Lisa,alquiler,3000.0,horarios limitados,entrevista
+Cerro,compra,3800.0,trámites lentos,entrevista
+Plaza de la Revolución,alquiler,4500.0,falta de infraestructura,entrevista
+Cotorro,compra,3200.0,burocracia,entrevista
+Playa,alquiler,3600.0,falta de mantenimiento,entrevista
+Habana del Este,compra,4000.0,requisitos estrictos,entrevista

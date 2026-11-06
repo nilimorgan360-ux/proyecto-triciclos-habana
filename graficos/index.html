@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gráficos · Mercado de Triciclos Eléctricos</title>
+<style>
+  body { margin: 0; padding: 32px; background: #f3f4f6;
+         font-family: Helvetica, Arial, sans-serif; color: #023047; }
+  h1 { text-align: center; font-size: 26px; margin: 0 0 6px; }
+  p.sub { text-align: center; color: #6b7280; margin: 0 0 32px; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
+          gap: 24px; max-width: 1500px; margin: 0 auto; }
+  .card { background: #fff; border-radius: 12px; padding: 12px;
+          box-shadow: 0 2px 10px rgba(0,0,0,.08); }
+  .card img { width: 100%; height: auto; display: block; border-radius: 8px; }
+  .card h2 { font-size: 15px; margin: 10px 4px 4px; color: #126782; }
+</style>
+</head>
+<body>
+  <h1>Mercado de Triciclos Eléctricos de La Habana</h1>
+  <p class="sub">Gráficos generados a partir de los datos consolidados del proyecto</p>
+  <div class="grid">
+    <div class="card"><img src="grafico_precios.png" alt="Distribución de precios"><h2>Distribución de precios</h2></div>
+    <div class="card"><img src="grafico_municipios.png" alt="Distribución por municipio"><h2>Distribución por municipio</h2></div>
+    <div class="card"><img src="grafico_uso.png" alt="Categoría de uso"><h2>Categoría de uso</h2></div>
+    <div class="card"><img src="grafico_barreras.png" alt="Barreras del mercado"><h2>Barreras del mercado</h2></div>
+    <div class="card"><img src="grafico_fuentes.png" alt="Fuentes de datos"><h2>Fuentes de datos</h2></div>
+    <div class="card"><img src="grafico_precios_municipio.png" alt="Precios por municipio"><h2>Precios por municipio</h2></div>
+    <div class="card"><img src="grafico_marcas.png" alt="Distribución por marca"><h2>Distribución por marca</h2></div>
+  </div>
+</body>
+</html>

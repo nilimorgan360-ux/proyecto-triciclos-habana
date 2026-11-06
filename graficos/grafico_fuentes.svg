@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" font-family="Helvetica, Arial, sans-serif"><rect width="1000" height="650" fill="#FFFFFF"/>
+<text x="500.0" y="46" text-anchor="middle" font-size="26" font-weight="bold" fill="#023047">Fuentes de los datos analizados</text><text x="500.0" y="74" text-anchor="middle" font-size="15" fill="#6B7280">Origen de los registros del estudio</text>
+<path d="M 360.00 180.00 A 175 175 0 1 1 257.14 496.58 L 301.22 435.90 A 100 100 0 1 0 360.00 255.00 Z" fill="#219EBC" stroke="#FFFFFF" stroke-width="2"/>
+<text x="490.8" y="402.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">60.0%</text>
+<path d="M 257.14 496.58 A 175 175 0 0 1 360.00 180.00 L 360.00 255.00 A 100 100 0 0 0 301.22 435.90 Z" fill="#FFB703" stroke="#FFFFFF" stroke-width="2"/>
+<text x="229.2" y="317.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#FFFFFF">40.0%</text>
+<text x="360" y="347" text-anchor="middle" font-size="40" font-weight="bold" fill="#023047">20</text>
+<text x="360" y="377" text-anchor="middle" font-size="15" fill="#6B7280">registros</text>
+<rect x="620" y="250" width="22" height="22" rx="4" fill="#219EBC"/>
+<text x="654" y="267" font-size="17" fill="#023047">Web</text>
+<text x="654" y="288" font-size="13" fill="#6B7280">12 (60.0%)</text>
+<rect x="620" y="302" width="22" height="22" rx="4" fill="#FFB703"/>
+<text x="654" y="319" font-size="17" fill="#023047">Entrevista</text>
+<text x="654" y="340" font-size="13" fill="#6B7280">8 (40.0%)</text>
+</svg>

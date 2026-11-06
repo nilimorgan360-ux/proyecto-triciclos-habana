@@ -1,0 +1,65 @@
+{
+  "total_registros": 32,
+  "registros_json": 12,
+  "registros_csv": 20,
+  "categoria_uso": {
+    "Carga": 15,
+    "Pasajeros": 5
+  },
+  "fuentes": {
+    "Web": 12,
+    "Entrevista": 8
+  },
+  "municipios": [
+    "10 de Octubre",
+    "Centro Habana",
+    "Cerro",
+    "Cotorro",
+    "Habana del Este",
+    "La Lisa",
+    "Playa",
+    "Plaza de la Revolución"
+  ],
+  "precios_promedio_por_municipio": {
+    "10 de Octubre": 3440.0,
+    "Centro Habana": 3941.0266666666666,
+    "Cerro": 4000.0,
+    "Cotorro": 4000.0,
+    "Habana del Este": 4600.0,
+    "La Lisa": 3500.0,
+    "Playa": 4300.0,
+    "Plaza de la Revolución": 4500.0
+  },
+  "legalidad_obstaculos": {
+    "-": 9,
+    "En regla": 3,
+    "falta de documentos": 1,
+    "precios altos": 1,
+    "horarios limitados": 1,
+    "trámites lentos": 1,
+    "falta de infraestructura": 1,
+    "burocracia": 1,
+    "falta de mantenimiento": 1,
+    "requisitos estrictos": 1
+  },
+  "municipio_precios_min": {
+    "10 de Octubre": 3300.0,
+    "Centro Habana": 3800.0,
+    "Cerro": 3800.0,
+    "Cotorro": 3200.0,
+    "Habana del Este": 4000.0,
+    "La Lisa": 3000.0,
+    "Playa": 3600.0,
+    "Plaza de la Revolución": 4500.0
+  },
+  "municipio_precios_max": {
+    "10 de Octubre": 3600.0,
+    "Centro Habana": 4200.0,
+    "Cerro": 4200.0,
+    "Cotorro": 4800.0,
+    "Habana del Este": 5200.0,
+    "La Lisa": 4000.0,
+    "Playa": 5000.0,
+    "Plaza de la Revolución": 4500.0
+  }
+}
