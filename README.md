@@ -6,6 +6,13 @@ Proyecto de ciencia de datos sobre el mercado de triciclos eléctricos en La Hab
 
 El análisis caracteriza el mercado actual: precios, distribución geográfica por municipio, categorías de uso (carga vs. pasajeros), barreras legales/operativas y fuentes de adquisición.
 
+## Informe completo
+
+El informe completo, con metodología, resultados, gráficos, limitaciones y recomendaciones, está disponible en:
+
+- [`reporte_completo.pdf`](reporte_completo.pdf) — informe completo (10 páginas)
+- [`graficos/reporte_graficos.pdf`](graficos/reporte_graficos.pdf) — resumen gráfico
+
 ## Datos
 
 - `datos/datos_consolidados.csv`: 20 registros consolidados (12 de fuente web + 8 de entrevistas).
@@ -55,9 +62,11 @@ proyecto_ciencia_datos/
 │   ├── *.png
 │   ├── *.svg
 │   └── reporte_graficos.pdf
-├── generar_graficos.py        # gráficos SVG (solo biblioteca estándar)
-├── generar_graficos_png.py    # gráficos PNG (requiere Pillow)
-└── generar_reporte_pdf.py     # reporte PDF (requiere fpdf)
+├── generar_graficos.py          # gráficos SVG (solo biblioteca estándar)
+├── generar_graficos_png.py      # gráficos PNG (requiere Pillow)
+├── generar_reporte_pdf.py       # resumen gráfico en PDF (requiere fpdf)
+├── generar_informe_completo.py  # informe completo en PDF (requiere fpdf)
+└── reporte_completo.pdf         # informe completo generado
 ```
 
 ## Requisitos
@@ -79,6 +88,9 @@ python3 generar_graficos_png.py
 
 # Reporte PDF (requiere fpdf)
 python3 generar_reporte_pdf.py
+
+# Informe completo en PDF (requiere fpdf)
+python3 generar_informe_completo.py
 ```
 
 Los resultados se guardan en la carpeta `graficos/`. Abre `graficos/index.html` para ver la galería.
